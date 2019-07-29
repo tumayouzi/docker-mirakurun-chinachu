@@ -1,7 +1,6 @@
 [Unit]
 Description=Chinachu
 Requires=mirakurun-user.service
-After=mirakurun-user.service
 
 [Service]
 Type=simple

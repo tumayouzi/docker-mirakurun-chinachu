@@ -1,5 +1,5 @@
 FROM node:10-alpine
-LABEL maintainer "h-mineta <h-mineta@0nyx.net>"
+LABEL maintainer "tumayoiuzi <tumayouzi@gmail.com>"
 
 ENV DOCKER="YES"
 ARG REPOSITORY="git://github.com/Chinachu/Chinachu.git"
